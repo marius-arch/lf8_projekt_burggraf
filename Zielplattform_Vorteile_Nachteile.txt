@@ -1,0 +1,16 @@
+Vorteile Tablet:
+- einfache Bedienung einer GUI durch den Touchscreen
+- einfaches Zeichnen durch einen Eingabestift möglich
+
+Nachteile Tablet:
+- bei iPads sind Apps nur über einen Appstore installierbar
+--> das Reinstellen einer App in einen Appstore kostet Geld
+--> das Herunterladen einer App benötigt ein Nutzerkonto für den Appstore
+- durch Touchscreen Tastatur ist Eingabe von Text schwieriger
+
+Vorteile Laptop (PC):
+- Tastatur ist immer vorhanden und ermöglicht einfache Eingabe von Text
+- Anwendungsprogramme können ohne Probleme installiert werden
+
+Nachteile Laptop (PC):
+- Touchscreen und Eingabestift nur bei speziellen Tablet PCs vorhanden
