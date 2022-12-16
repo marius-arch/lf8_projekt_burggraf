@@ -1,6 +1,6 @@
 # Willkommen
 
-Dies ist eine Dokumentation.
+Dies ist eine Test.
 
 !!! quote "Ein Zitat"
     Markdown ist sehr flexibel.
