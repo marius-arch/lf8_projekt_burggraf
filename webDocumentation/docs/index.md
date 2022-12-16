@@ -1,6 +1,6 @@
 # Willkommen
 
-Dies ist eine Überschrift.
+Dies ist eine Überschrift!
 
 !!! quote "Ein Zitat"
     Markdown ist sehr flexibel.
