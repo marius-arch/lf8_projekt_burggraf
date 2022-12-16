@@ -12,5 +12,6 @@ jobs:
         with:
           python-version: 3.x
       - run: cd \webDocumentation\
+      - run: ls
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
