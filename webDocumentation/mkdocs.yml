@@ -1,6 +1,5 @@
 site_name: MkDocs Einführung
 dev_addr: '0.0.0.0:80'
-repo_url: https://github.com/squidfunk/mkdocs-material
 
 markdown_extensions:
   - admonition
