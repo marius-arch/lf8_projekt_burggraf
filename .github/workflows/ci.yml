@@ -1,18 +1,17 @@
-stages :
-  - build
-pages:
-  stage: build
-  image:
-  name: squidfunk/mkdocs-material
-  entrypoint:
-    - "webDocumentation"
-  script:
-    - mkdocs build
-    - mv site public
-  artifacts:
-    paths:
-      - public
-  only:
-    - master
-  tags:
-    - gitlab-org-docker
+name: ci 
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: cd /webDocumentation/
+      - run: ls
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --forcea
