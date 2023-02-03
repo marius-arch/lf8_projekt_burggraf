@@ -11,8 +11,8 @@ theme:
   name: material
   language: de
   font: false
-  favicon: favicon.svg
-  logo: favicon.svg
+  favicon: favicon.png
+  logo: favicon.png
 
 site_author: "Marius Starke"
 
