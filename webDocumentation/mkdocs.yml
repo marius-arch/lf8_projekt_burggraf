@@ -11,10 +11,10 @@ theme:
   name: material
   language: de
   font: false
-  favicon: favicon.png
-  logo: favicon.png
+  favicon: favicon.svg
+  logo: favicon.svg
 
-site_author: "bszetdd it-systems"
+site_author: "Marius Starke"
 
 extra_css:
     - css/extra.css
