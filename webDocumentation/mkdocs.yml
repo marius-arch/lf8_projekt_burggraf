@@ -1,4 +1,4 @@
-site_name: MkDocs Einführung
+site_name: Projekt-Wiki
 dev_addr: '0.0.0.0:80'
 
 markdown_extensions:
