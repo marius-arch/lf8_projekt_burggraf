@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/lf8_projekt_burggraf/static/css/main.073c9b0a.css",
-    "main.js": "/lf8_projekt_burggraf/static/js/main.53db52db.js",
-    "static/js/787.6b1cc8e1.chunk.js": "/lf8_projekt_burggraf/static/js/787.6b1cc8e1.chunk.js",
-    "static/media/logo.svg": "/lf8_projekt_burggraf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/lf8_projekt_burggraf/static/css/main.8a685450.css",
+    "main.js": "/lf8_projekt_burggraf/static/js/main.794c4066.js",
     "index.html": "/lf8_projekt_burggraf/index.html",
-    "main.073c9b0a.css.map": "/lf8_projekt_burggraf/static/css/main.073c9b0a.css.map",
-    "main.53db52db.js.map": "/lf8_projekt_burggraf/static/js/main.53db52db.js.map",
-    "787.6b1cc8e1.chunk.js.map": "/lf8_projekt_burggraf/static/js/787.6b1cc8e1.chunk.js.map"
+    "main.8a685450.css.map": "/lf8_projekt_burggraf/static/css/main.8a685450.css.map",
+    "main.794c4066.js.map": "/lf8_projekt_burggraf/static/js/main.794c4066.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.53db52db.js"
+    "static/css/main.8a685450.css",
+    "static/js/main.794c4066.js"
   ]
 }
