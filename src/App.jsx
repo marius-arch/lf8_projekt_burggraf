@@ -1,9 +1,16 @@
-import { AppShell, Navbar, Header, Title, Group, ActionIcon, ColorSchemeProvider, MantineProvider } from '@mantine/core';
+import { AppShell, Navbar, Header, Title, Group, ActionIcon, ColorSchemeProvider, MantineProvider, ScrollArea } from '@mantine/core';
 import { MainLinks } from './frame/MainLinks';
 import { IconMoonStars, IconSun } from '@tabler/icons-react';
 import { useState } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Phase1 from './phases/Phase1';
+import Phase2 from './phases/Phase2';
+import Phase3 from './phases/Phase3';
+import Phase4 from './phases/Phase4';
+import Phase5 from './phases/Phase5';
+import Phase6 from './phases/Phase6';
+import Phase7 from './phases/Phase7';
+import Phase8 from './phases/Phase8';
 
 function App() {
   const [colorScheme, setColorScheme] = useState('dark');
@@ -39,11 +46,18 @@ function App() {
             },
           })}
         >
-          <Routes>
-            <Route path="/" element={<Phase1 />} />
-            <Route path="/about" element={<MainLinks />} />
-            <Route path="/careers" element={<MainLinks />} />
-          </Routes>
+          <ScrollArea offsetScrollbars style={{height: "80vh", width: "100%"}}>
+            <Routes>
+              <Route path="/lf8_projekt_burggraf/phase1" element={<Phase1 />} />
+              <Route path="/lf8_projekt_burggraf/phase2" element={<Phase2 />} />
+              <Route path="/lf8_projekt_burggraf/phase3" element={<Phase3 />} />
+              <Route path="/lf8_projekt_burggraf/phase4" element={<Phase4 />} />
+              <Route path="/lf8_projekt_burggraf/phase5" element={<Phase5 />} />
+              <Route path="/lf8_projekt_burggraf/phase6" element={<Phase6 />} />
+              <Route path="/lf8_projekt_burggraf/phase7" element={<Phase7 />} />
+              <Route path="/lf8_projekt_burggraf/phase8" element={<Phase8 />} />
+            </Routes>
+          </ScrollArea>
         </AppShell>
       </MantineProvider>
     </ColorSchemeProvider>
