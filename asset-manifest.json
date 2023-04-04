@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lf8_projekt_burggraf/static/css/main.8a685450.css",
-    "main.js": "/lf8_projekt_burggraf/static/js/main.984564ba.js",
+    "main.js": "/lf8_projekt_burggraf/static/js/main.457ddad3.js",
     "index.html": "/lf8_projekt_burggraf/index.html",
     "main.8a685450.css.map": "/lf8_projekt_burggraf/static/css/main.8a685450.css.map",
-    "main.984564ba.js.map": "/lf8_projekt_burggraf/static/js/main.984564ba.js.map"
+    "main.457ddad3.js.map": "/lf8_projekt_burggraf/static/js/main.457ddad3.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.984564ba.js"
+    "static/js/main.457ddad3.js"
   ]
 }
