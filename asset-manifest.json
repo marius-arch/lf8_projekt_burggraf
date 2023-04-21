@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/lf8_projekt_burggraf/static/css/main.8a685450.css",
-    "main.js": "/lf8_projekt_burggraf/static/js/main.b07acfac.js",
+    "main.js": "/lf8_projekt_burggraf/static/js/main.c84493db.js",
     "static/media/not-found.jpg": "/lf8_projekt_burggraf/static/media/not-found.1f805512de94aa4faf12.jpg",
     "static/media/git_creation.png": "/lf8_projekt_burggraf/static/media/git_creation.67991bb2629975693933.png",
     "static/media/git_documentation.png": "/lf8_projekt_burggraf/static/media/git_documentation.a9cf2eaf1dce3ac883be.png",
     "static/media/git_permissions.png": "/lf8_projekt_burggraf/static/media/git_permissions.7d51c4868d6b9bd284f7.png",
     "index.html": "/lf8_projekt_burggraf/index.html",
     "main.8a685450.css.map": "/lf8_projekt_burggraf/static/css/main.8a685450.css.map",
-    "main.b07acfac.js.map": "/lf8_projekt_burggraf/static/js/main.b07acfac.js.map"
+    "main.c84493db.js.map": "/lf8_projekt_burggraf/static/js/main.c84493db.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.b07acfac.js"
+    "static/js/main.c84493db.js"
   ]
 }
