@@ -46,7 +46,7 @@ function App() {
             },
           })}
         >
-          <ScrollArea offsetScrollbars style={{ height: "90vh", width: "100%" }}>
+          <ScrollArea offsetScrollbars style={{ height: "80vh", width: "100%" }}>
             <Routes>
               <Route path="/lf8_projekt_burggraf/phase1" element={<Phase1 />} />
               <Route path="/lf8_projekt_burggraf/phase2" element={<Phase2 />} />
